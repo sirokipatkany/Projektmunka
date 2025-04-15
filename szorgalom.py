@@ -1,5 +1,4 @@
-jegy=int(input("Add meg az osztályzatod"))
-osztályzat=jegy
+osztályzat=int(input("Add meg az osztályzatod"))
 if osztályzat == 1:
     szorgalom = "rossz"
 elif osztályzat ==2:
